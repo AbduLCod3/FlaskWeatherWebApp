@@ -1,4 +1,4 @@
-## Weather App *NOT COMPLETE
+## Weather App 
 
 This is a simple weather application built with Python and Flask. It allows users to enter a city name and displays the current weather information.
 
@@ -9,11 +9,16 @@ This is a simple weather application built with Python and Flask. It allows user
 
         python -m venv venv
         source venv/bin/activate  # For Linux/macOS
-        venv\Scripts\activate.bat # For Windows
+        venv\Scripts\activate.bat # For Windows 
 
 - Install the required dependencies:
 
         pip install flask requests python-dotenv
 
 
-###      IN PROGRESS
+- Run the App:
+
+        py server.py
+
+### Contributing 
+Feel free to fork this repository and contribute your improvements.
